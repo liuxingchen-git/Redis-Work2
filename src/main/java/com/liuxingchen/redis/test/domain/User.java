@@ -1,7 +1,7 @@
 package com.liuxingchen.redis.test.domain;
 
 import java.io.Serializable;
-import java.sql.Date;
+import java.util.Date;
 
 /**
  * 
